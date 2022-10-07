@@ -7,10 +7,10 @@
 
 ## Install 
 
-1. ```git clone git@github.com:open-mmlab/mmcv.git```, and checkout to the tag ```v1.5.2```
-2. ```pip install ./```
+1. ```git clone git@github.com:open-mmlab/mmcv.git```, and checkout to the tag ```v1.5.2```. Using ```pip install ./``` to install mmcv from source.
+2. Go to the directory of this repository, run ```pip install ./```
 
 ## Getting Started
 
-1. run ```sh script/run_resnet101_dc.sh``` and ```sh script/run_resnet50_dc.sh``` , generate log file under fold ```./log```
+1. run ```sh script/run_resnet101_dc.sh``` and ```sh script/run_resnet50_dc.sh``` , generate log file under folder  ```./log```
 2. 
