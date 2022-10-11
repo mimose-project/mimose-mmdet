@@ -13,4 +13,6 @@
 ## Getting Started
 
 1. run ```sh script/run_resnet101_dc.sh``` and ```sh script/run_resnet50_dc.sh``` , generate log file under folder  ```./log```
-2. 
+2. Go to directory ```plot_script```, change the file path to the latest.
+3. run ```python3 plot_figure_10_a_d.py ``` to get figure 10.
+4. run ```python3 plot_figure_11.py``` to get figure 11.
